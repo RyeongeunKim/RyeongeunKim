@@ -1,5 +1,5 @@
 # RYEONGEUN Portfolio
->캐치 프레이즈
+>현실에 안주하지 않고 꾸준히 노력하겠습니다.
 </br>
 
 ## &#128270; Intro

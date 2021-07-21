@@ -1,29 +1,28 @@
-# 김령은 포트폴리오
->캐치 프레이즈
+# 포트폴리오
 
 </br>
 
 ## :pushpin: Intro
-(여기에 자기 소개)
+사진(작은 사이즈, 웃는 얼굴)
+- 이름 : 김령은
+- 취미 : 요리, 독서, 여행
+
+`캐치 프레이즈`
 
 </br>
 
 ## :pushpin: Contact
-- 이메일: rhep0828@gmail.com
-- 블로그: https://ryan-han.com
-- 깃헙: https://github.com/integerous
+- Email: ryeongeun.gim@gmail.com
+- GitHub: https://github.com/RyeongeunKim
 
 </br>
 
 ## :pushpin: Projects
-### 1. [goQuality](https://github.com/RyeongeunKim/justSkin)
->고퀄리티 개발 컨텐츠 공유 서비스 (팀 프로젝트)  
->개발 기간: 2021.06.10 ~ 2021.7.13
->  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
->  
->[프로젝트 상세 설명](https://github.com/RyeongeunKim/justSkin) 참고
+### 1. [justSkin](https://github.com/RyeongeunKim/justSkin)
+>화장품 쇼핑몰 (팀 프로젝트)  
+- 개발 기간: 2021.06.10 ~ 2021.7.13<br>
+- 개발환경 : Eclipse / MySQL / Apache Tomcat / Git Hub<br>
+- 사용언어 : JAVA / HTML / CSS / JavaScript / JQuery / JSP / Ajax<br>
+- [프로젝트 상세 설명](https://github.com/RyeongeunKim/justSkin) 참고
 
 

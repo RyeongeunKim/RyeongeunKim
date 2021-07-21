@@ -2,20 +2,20 @@
 >캐치 프레이즈
 </br>
 
-## :pushpin: Intro
+## &#128270; Intro
 사진(작은 사이즈, 웃는 얼굴)
 - 이름 : 김령은
 - 취미 : 요리, 독서, 여행
 
 </br>
 
-## :pushpin: Contact
+## &#128222; Contact
 - Email: ryeongeun.gim@gmail.com
 - GitHub: https://github.com/RyeongeunKim
 
 </br>
 
-## :pushpin: Projects
+## &#128187; Projects
 ### 1. [justSkin](https://github.com/RyeongeunKim/justSkin)
 >화장품 쇼핑몰 (팀 프로젝트)  
 - 개발 기간: 2021.06.10 ~ 2021.7.13<br>

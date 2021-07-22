@@ -1,19 +1,13 @@
 # RYEONGEUN Portfolio
->현실에 안주하지 않고 꾸준히 노력하겠습니다.
+>뭐라하지..
 </br>
 
 ## &#128270; Intro
-사진(작은 사이즈, 웃는 얼굴)
-- 이름 : 김령은
-- 취미 : 요리, 독서, 여행
-
-</br>
-
-## &#128222; Contact
-- Email: ryeongeun.gim@gmail.com
-- GitHub: https://github.com/RyeongeunKim
-
-</br>
+<img src="https://user-images.githubusercontent.com/80612679/126629388-7906dbb6-8b4e-4a3c-85ae-70c9c9b3b320.jpg" width="200"><br>
+- 이름 : 김령은<br>
+- 취미 : 요리, 독서, 여행<br>
+- Email: ryeongeun.gim@gmail.com<br>
+- GitHub: https://github.com/RyeongeunKim<br>
 
 ## &#128187; Projects
 ### 1. [justSkin](https://github.com/RyeongeunKim/justSkin)

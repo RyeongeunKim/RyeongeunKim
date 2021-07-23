@@ -10,7 +10,7 @@
 ## &#128187; Projects
 ### 1. [justSkin](https://github.com/RyeongeunKim/justSkin)
 >화장품 쇼핑몰 (팀 프로젝트)  
-- 개발 기간: 2021.06.10 ~ 2021.7.13<br>
+- 개발 기간 : 2021.06.10 ~ 2021.7.13<br>
 - 개발환경 : Eclipse / MySQL / Apache Tomcat<br>
 - 사용언어 : JAVA / HTML / CSS / JavaScript / JQuery / JSP / Ajax<br>
 - [프로젝트 상세 설명](https://github.com/RyeongeunKim/justSkin) 참고

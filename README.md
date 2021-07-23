@@ -1,6 +1,4 @@
 # RYEONGEUN Portfolio
->뭐라하지..
-</br>
 
 ## &#128270; Intro
 <img src="https://user-images.githubusercontent.com/80612679/126629388-7906dbb6-8b4e-4a3c-85ae-70c9c9b3b320.jpg" width="200"><br>
